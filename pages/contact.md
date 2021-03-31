@@ -3,10 +3,11 @@ layout: contact
 title: Noah's Bread
 permalink: /contact
 section: contact
-intro_paragraph: ""
+intro_paragraph: I baked my first loaf of sourdough bread about a year ago, and
+  since then I haven't been able to stop baking it. By now I make way too much
+  for myself and my roommates to eat alone, so I decided to begin sharing this
+  passion more widely.
 ---
-I baked my first loaf of sourdough bread about a year ago, and since then I haven't been able to stop baking it. By now I make way too much for myself and my roommates to eat alone, so I decided to begin sharing this passion more widely. 
-
 ### The Recipe
 
 I developed my recipe by incorporating pieces of recipes from several famous bakeries around America, most notably Ken’s Artisan Bakery in Portland, OR and Tartine Bakery in San Fransisco, CA. My recipe uses bread flour, whole wheat flour, and rye flour. I recommend toasting up this bread and serving it with warm cheese, jam, or your favorite nut butter. It also works great on sandwiches—my personal favorite is a grilled cheese with Gruyeré, pickles, caramelized onions, and Dijon mustard. Or just eat it plain!
