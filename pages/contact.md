@@ -5,8 +5,6 @@ permalink: /contact
 section: contact
 intro_paragraph: ""
 ---
-### Introduction
-
 I baked my first loaf of sourdough bread about a year ago, and since then I haven't been able to stop baking it. By now I make way too much for myself and my roommates to eat alone, so I decided to begin sharing this passion more widely. 
 
 ### The Recipe
@@ -21,4 +19,4 @@ For the time being, I am only selling to people in the Atlanta area. You can eit
 
 Turnaround speed depends on how many orders are being placed (and how much homework I have), but I'll do my best to fulfill every order within a week or two.
 
-**Place an Order**
+### Place an Order
