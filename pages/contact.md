@@ -7,7 +7,7 @@ intro_paragraph: >-
   **Introduction**
 
 
-  I baked my first loaf of sourdough bread about a year ago, and since then I haven't really been able to stop baking it. At this point I make way too much for myself and my roommates to eat, so I decided to begin sharing this passion more widely. 
+  I baked my first loaf of sourdough bread about a year ago, and since then I haven't been able to stop baking it. By now I make way too much for myself and my roommates to eat alone, so I decided to begin sharing this passion more widely. 
 
 
   **The Recipe**
